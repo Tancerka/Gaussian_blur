@@ -1,0 +1,4 @@
+LIBRARY JAAsm.asm
+EXPORTS 
+	_DllMainCRTStartup
+	ApplyGaussianBlurAsm

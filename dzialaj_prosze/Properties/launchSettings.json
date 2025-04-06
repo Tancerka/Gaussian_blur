@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dzialaj_prosze": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
